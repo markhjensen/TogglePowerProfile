@@ -1,10 +1,10 @@
 # TogglePowerProfile
-PowerShell and vbs to toggle PowerProfile
+PowerShell and vbs to toggle Power Profiles
 
 I use this script with WinHotKey to toggle between Power Saving and Balanced power plans.
 
 
-How to setuo in WinHotKey:
+How to setup in WinHotKey:
 Install WinHotKey
 New Hotkey
 Browse to wrapper.vbs
